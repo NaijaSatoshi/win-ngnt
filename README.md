@@ -1,2 +1,2 @@
-# win-ngnt
-This is a game where players can win NGNT multiple times
+# win-ngnt-smartcontract
+This is the Win NGNT repo.

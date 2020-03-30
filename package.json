@@ -1,0 +1,32 @@
+{
+  "name": "winngnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash script/test.sh"
+  },
+  "keywords": [],
+  "author": "NaijaSatoshi",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0",
+    "@openzeppelin/gsn-provider": "^0.1.9",
+    "@openzeppelin/network": "^0.4.1",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^4.0.44",
+    "truffle": "^5.0.43",
+    "web3": "^1.2.4",
+    "websocket": "^1.0.30"
+  },
+  "devDependencies": {
+    "@0x/contracts-utils": "^3.2.4",
+    "@openzeppelin/contracts-ethereum-package": "^2.3.0",
+    "@openzeppelin/gsn-helpers": "^0.2.1",
+    "@openzeppelin/test-helpers": "^0.5.4",
+    "@openzeppelin/upgrades": "^2.5.3",
+    "@truffle/hdwallet-provider": "^1.0.23",
+    "dotenv": "^8.2.0",
+    "ethereum-bridge": "^0.6.2"
+  }
+}
